@@ -1,62 +1,87 @@
-# Special Repo: Frontend Development Projects by Prajakta Naphade
+# Prajakta Naphade - Frontend Developer Portfolio
 
-Welcome to my GitHub repository! This repository showcases a variety of frontend development projects I've worked on, demonstrating my expertise in Angular, React.js, Node.js, TypeScript, JavaScript, HTML, and CSS. Feel free to explore the code, contribute, or learn more about how I approach development.
-
-## About Me
-
-- *Name*: Prajakta Naphade
-- *Location*: Mumbai, India
-- *Email*: [prajaktanaphade97@gmail.com](mailto:prajaktanaphade97@gmail.com)
-- *LinkedIn*: [linkedin.com/in/prajakta-naphade](https://linkedin.com/in/prajakta-naphade)
-
-I am a passionate frontend developer with a strong background in creating high-quality, maintainable web applications. My focus areas include UI/UX design, Angular development, and ensuring high-performance applications through optimized coding practices. I am continuously learning and improving my skills while contributing to real-world projects.
+Mumbai, India  
+📧 [prajaktanaphade97@gmail.com](mailto:prajaktanaphade97@gmail.com)  
+📱 +91 8169260814  
+🔗 [LinkedIn](https://linkedin.com/in/prajakta-naphade)  
 
 ---
 
-## Projects
+## 📝 Summary
 
-### 1. Global Insurance Platform
-*Duration*: Aug 2019 – Sept 2021  
-A robust insurance solution developed using Angular, focusing on enhancing the UI/UX design.  
-- Developed and optimized user interfaces with Angular, HTML5, CSS3, and JavaScript.
-- Implemented technical specifications, requirement analysis, design, and coding.
-- Explored and implemented risk mitigation strategies for a successful project lifecycle.
-
-### 2. Travel Experience Enhancement Tool
-*Duration*: July 2017 – July 2019  
-A tool designed to improve user experiences in the travel domain, developed using Angular.  
-- Supported Angular projects, providing debugging and technical support.
-- Shared knowledge with the team to ensure effective delivery of user requirements.
-- Focused on iterating improvements to enhance the overall travel experience.
-
-### 3. Real Estate Development Dash Bar
-A project aimed at managing real estate data, exploring site feasibility, and conducting market research.  
-- Applied Angular for frontend development, supporting the real estate industry's needs.
-- Gained insights into the project lifecycle, including permits and approvals.
-
-### 4. Real Estate Landing Page
-A web application designed for showcasing property listings and collecting user leads.  
-- Developed a responsive and visually appealing page using Angular, HTML, and CSS.
-- Focused on guiding users through the property search process seamlessly.
+Dedicated Frontend Developer with practical expertise in *Angular, **React.js, **Node.js, **TypeScript, **JavaScript, **HTML, and **CSS. Experienced in creating optimized, modular, and maintainable user interfaces through Angular, with a strong grasp of the Document Object Model (DOM) and the Software Development Life Cycle (SDLC). Skilled in **SQL, **API integration, **GIT, and **GitHub* for seamless workflows. Passionate about continuous learning and building high-performance applications.
 
 ---
 
-## Skills
+## 📚 Education
 
-- *Programming Languages*: JavaScript, TypeScript, HTML, CSS
-- *Frameworks & Libraries*: Angular, React.js
-- *Tools & Platforms*: Node.js, Visual Studio Code, Git, GitHub
-- *Design*: UI/UX Design, Responsive Design
-- *Soft Skills*: Analytical Skills, Problem Solving, Creativity, Team Collaboration, Time Management
-
----
-
-## Contributing
-
-Feel free to fork the repository, make improvements, or open issues for suggestions or bug fixes. Contributions are always welcome!
+- *Master of Science* - North Maharashtra University, Jalgaon  
+  *Grade*: A
+- *Bachelor of Science* - North Maharashtra University, Jalgaon  
+  *Grade*: A+
 
 ---
 
-## Contact
+## 💻 Projects
 
-For any inquiries or collaboration requests, please contact me via [email](mailto:prajaktanaphade97@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/prajakta-naphade).
+### 1. Global Insurance Platform  
+*Aug 2019 – Sept 2021 | July 2017 – July 2019*  
+- Engaged in Angular development, focusing on UI/UX design and code analysis.
+- Drafted technical specifications, conducted requirement analysis, design, and coding.
+- Contributed to innovative insurance solutions with *HTML5, **CSS3, **JavaScript, **Angular, **Bootstrap, and **JSON*.
+
+### 2. Travel Experience Enhancement Tool  
+- Provided technical support and debugging for Angular projects using Chrome Developer Toolbar.
+- Facilitated knowledge-sharing sessions to improve user experiences in the travel domain.
+
+### 3. Real Estate Development Dash Bar  
+- Involved in real estate management projects, including site exploration, feasibility studies, and market research.
+- Supported the real estate industry through effective *Angular* development.
+
+### 4. Real-Estate Landing Page  
+- Developed a web application for showcasing property listings, collecting leads, and guiding users in property search.
+- Created a visually appealing and user-friendly interface to engage potential buyers.
+
+---
+
+## 🛠 Skills
+
+### Soft Skills
+- Analytical Skills, Problem Solving, Attention to Detail, Creativity
+- Communication Skills, Team Collaboration, Time Management, Adaptability
+
+### Programming Languages
+- JavaScript, TypeScript, HTML, CSS
+
+### Frameworks & Libraries
+- Angular, React.js
+
+### Tools & Platforms
+- Node.js, Visual Studio Code, Git, GitHub
+
+### Design
+- UI/UX Design, Responsive Design
+
+### Languages
+- Marathi, Hindi, English
+
+---
+
+## 📂 Repository Content
+
+This repository includes the code and documentation for key projects undertaken, showcasing:
+
+1. *Global Insurance Platform*
+2. *Travel Experience Enhancement Tool*
+3. *Real Estate Development Dash Bar*
+4. *Real-Estate Landing Page*
+
+Each project includes detailed documentation, code examples, and links to live demos where available.
+
+---
+
+## 🔗 Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/prajakta-naphade) or reach out via email at [prajaktanaphade97@gmail.com](mailto:prajaktanaphade97@gmail.com) for any queries or collaboration opportunities.
+
+---
